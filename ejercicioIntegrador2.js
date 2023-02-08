@@ -13,7 +13,7 @@ Se deberá agregar el iva (21%) y  luego se deberá restar el 5% en concepto
 de compra mayorista. El programa deberá mostrar por alert importe bruto, el iva, 
 el importe con iva, el valor del descuento y el total a pagar.
 
-Nota: Se puede realizar en el ejercicio 3 de E/S
+Nota:Se puede realizar en el ejercicio 3 de E/S
  */
 function mostrar()
 {
